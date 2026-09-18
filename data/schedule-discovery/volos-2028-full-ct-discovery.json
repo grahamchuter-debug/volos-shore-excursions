@@ -1,10 +1,300 @@
 {
   "port": "volos",
   "year": 2028,
-  "wave": "wave-1d",
+  "wave": "wave-2",
   "filterDecision": "HOLD",
   "filterReason": "validated 3 < MIN_PUBLISH_ROWS 15 — HOLD; restricted rows NOT reintroduced",
-  "validatedCount": 3,
-  "tier2KeysApplied": [],
-  "total": 32
+  "total": 32,
+  "validatedCount": 0,
+  "path": "HOLD",
+  "calls": [
+    {
+      "date": "2028-02-13",
+      "ship": "Azamara Journey",
+      "cruiseLine": "Azamara Cruises",
+      "arrival": "07:30",
+      "departure": "18:00",
+      "timeInPort": "10h 30m",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-02-21",
+      "ship": "Oceania Allura",
+      "cruiseLine": "Oceania Cruises",
+      "arrival": "09:00",
+      "departure": "18:00",
+      "timeInPort": "9h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-02-23",
+      "ship": "Viking Star",
+      "cruiseLine": "Viking Cruises",
+      "arrival": "",
+      "departure": "",
+      "timeInPort": null,
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-04-02",
+      "ship": "Explora V",
+      "cruiseLine": "Explora Journeys",
+      "arrival": "09:00",
+      "departure": "19:00",
+      "timeInPort": "10h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-04-08",
+      "ship": "Explora I",
+      "cruiseLine": "Explora Journeys",
+      "arrival": "08:00",
+      "departure": "20:00",
+      "timeInPort": "12h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-04-11",
+      "ship": "Costa Pacifica",
+      "cruiseLine": "Costa Cruises",
+      "arrival": "09:00",
+      "departure": "18:00",
+      "timeInPort": "9h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-04-17",
+      "ship": "Viking Sea",
+      "cruiseLine": "Viking Cruises",
+      "arrival": "",
+      "departure": "",
+      "timeInPort": null,
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-04-18",
+      "ship": "Costa Pacifica",
+      "cruiseLine": "Costa Cruises",
+      "arrival": "09:00",
+      "departure": "18:00",
+      "timeInPort": "9h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-04-25",
+      "ship": "Costa Pacifica",
+      "cruiseLine": "Costa Cruises",
+      "arrival": "09:00",
+      "departure": "18:00",
+      "timeInPort": "9h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-04-28",
+      "ship": "Viking Jupiter",
+      "cruiseLine": "Viking Cruises",
+      "arrival": "",
+      "departure": "",
+      "timeInPort": null,
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-05-02",
+      "ship": "Costa Pacifica",
+      "cruiseLine": "Costa Cruises",
+      "arrival": "09:00",
+      "departure": "18:00",
+      "timeInPort": "9h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-05-09",
+      "ship": "Costa Pacifica",
+      "cruiseLine": "Costa Cruises",
+      "arrival": "09:00",
+      "departure": "18:00",
+      "timeInPort": "9h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-05-15",
+      "ship": "Seabourn Ovation",
+      "cruiseLine": "Seabourn",
+      "arrival": "08:00",
+      "departure": "18:00",
+      "timeInPort": "10h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-05-16",
+      "ship": "Costa Pacifica",
+      "cruiseLine": "Costa Cruises",
+      "arrival": "09:00",
+      "departure": "18:00",
+      "timeInPort": "9h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-05-23",
+      "ship": "Costa Pacifica",
+      "cruiseLine": "Costa Cruises",
+      "arrival": "09:00",
+      "departure": "18:00",
+      "timeInPort": "9h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-05-31",
+      "ship": "Silver Shadow",
+      "cruiseLine": "Silversea Cruises",
+      "arrival": "09:00",
+      "departure": "20:00",
+      "timeInPort": "11h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-07-01",
+      "ship": "Azamara Onward",
+      "cruiseLine": "Azamara Cruises",
+      "arrival": "07:30",
+      "departure": "20:00",
+      "timeInPort": "12h 30m",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-07-05",
+      "ship": "Silver Shadow",
+      "cruiseLine": "Silversea Cruises",
+      "arrival": "08:00",
+      "departure": "19:00",
+      "timeInPort": "11h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-07-10",
+      "ship": "Oceania Allura",
+      "cruiseLine": "Oceania Cruises",
+      "arrival": "07:00",
+      "departure": "17:00",
+      "timeInPort": "10h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-07-10",
+      "ship": "Seabourn Ovation",
+      "cruiseLine": "Seabourn",
+      "arrival": "08:00",
+      "departure": "18:00",
+      "timeInPort": "10h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-07-11",
+      "ship": "Silver Dawn",
+      "cruiseLine": "Silversea Cruises",
+      "arrival": "08:00",
+      "departure": "19:00",
+      "timeInPort": "11h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-07-18",
+      "ship": "Silver Shadow",
+      "cruiseLine": "Silversea Cruises",
+      "arrival": "09:00",
+      "departure": "20:00",
+      "timeInPort": "11h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-09-04",
+      "ship": "Seabourn Ovation",
+      "cruiseLine": "Seabourn",
+      "arrival": "08:00",
+      "departure": "18:00",
+      "timeInPort": "10h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-09-05",
+      "ship": "Silver Shadow",
+      "cruiseLine": "Silversea Cruises",
+      "arrival": "08:00",
+      "departure": "19:00",
+      "timeInPort": "11h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-09-20",
+      "ship": "Silver Dawn",
+      "cruiseLine": "Silversea Cruises",
+      "arrival": "08:00",
+      "departure": "19:00",
+      "timeInPort": "11h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-09-21",
+      "ship": "Viking Sea",
+      "cruiseLine": "Viking Cruises",
+      "arrival": "",
+      "departure": "",
+      "timeInPort": null,
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-09-29",
+      "ship": "Azamara Onward",
+      "cruiseLine": "Azamara Cruises",
+      "arrival": "09:00",
+      "departure": "20:00",
+      "timeInPort": "11h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-10-07",
+      "ship": "AIDAstella",
+      "cruiseLine": "AIDA",
+      "arrival": "08:00",
+      "departure": "18:00",
+      "timeInPort": "10h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-10-18",
+      "ship": "Oceania Marina",
+      "cruiseLine": "Oceania Cruises",
+      "arrival": "07:00",
+      "departure": "17:00",
+      "timeInPort": "10h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-10-20",
+      "ship": "Silver Shadow",
+      "cruiseLine": "Silversea Cruises",
+      "arrival": "08:30",
+      "departure": "19:30",
+      "timeInPort": "11h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-10-24",
+      "ship": "Azamara Journey",
+      "cruiseLine": "Azamara Cruises",
+      "arrival": "08:00",
+      "departure": "20:00",
+      "timeInPort": "12h",
+      "callType": "Port of call"
+    },
+    {
+      "date": "2028-10-28",
+      "ship": "Silver Ray",
+      "cruiseLine": "Silversea Cruises",
+      "arrival": "09:00",
+      "departure": "19:00",
+      "timeInPort": "10h",
+      "callType": "Port of call"
+    }
+  ]
 }
