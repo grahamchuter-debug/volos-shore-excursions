@@ -1,0 +1,55 @@
+{
+  "generatedAt": "2026-09-18T07:43:29.229Z",
+  "wave": "wave-1d",
+  "port": "volos",
+  "destSlug": "volos",
+  "displayName": "Volos",
+  "counts": {
+    "2026": 19,
+    "2027": 49,
+    "2028_discovery": 32,
+    "2028_published": 0,
+    "public_total": 68,
+    "h1_2026": 0
+  },
+  "partial2026": true,
+  "filter2028": {
+    "decision": "HOLD",
+    "reason": "validated 3 < MIN_PUBLISH_ROWS 15 — HOLD; restricted rows NOT reintroduced",
+    "validatedCount": 3,
+    "tier2PrincessKeys": 0
+  },
+  "timeCompleteness": {
+    "2026": {
+      "total": 19,
+      "arrival": 14,
+      "departure": 14,
+      "both": 14,
+      "neither": 5,
+      "pctBoth": 73.7
+    },
+    "2027": {
+      "total": 49,
+      "arrival": 36,
+      "departure": 36,
+      "both": 36,
+      "neither": 13,
+      "pctBoth": 73.5
+    },
+    "2028": {
+      "total": 0,
+      "arrival": 0,
+      "departure": 0,
+      "both": 0,
+      "neither": 0,
+      "pctBoth": 0
+    }
+  },
+  "contaminationPurged": [
+    "src/data/imported-schedules/savona.json"
+  ],
+  "wireSchedulesTs": {
+    "wired": true,
+    "reason": "import wired"
+  }
+}

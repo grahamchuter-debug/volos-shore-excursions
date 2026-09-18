@@ -1,0 +1,48 @@
+{
+  "generated": "2026-07-28T00:00:00.000Z",
+  "site": "volosshoreexcursions.com",
+  "note": "Placeholders reused from Thessaloniki Cruise Excursions image set for localhost Gold scaffolding. Replace with licensed Volos / Pelion / Meteora production photography before launch. Meteora image retained as subject-relevant placeholder.",
+  "files": [
+    "hero.jpg",
+    "hero-home.jpg",
+    "og-default.jpg",
+    "cruise-port.jpg",
+    "walking.jpg",
+    "historic.jpg",
+    "coast.jpg",
+    "coastal.jpg",
+    "nature.jpg",
+    "food.jpg",
+    "food-and-wine.jpg",
+    "wine.jpg",
+    "photography.jpg",
+    "compare.jpg",
+    "family.jpg",
+    "private.jpg",
+    "viewpoints.jpg",
+    "waterfront.jpg",
+    "meteora.jpg",
+    "pelion.jpg",
+    "tsipouro.jpg",
+    "argonauts.jpg",
+    "pagasetic.jpg",
+    "iolcus.jpg",
+    "volos-waterfront.jpg"
+  ],
+  "aliases": {
+    "pelion.jpg": "Copied from ano-poli.jpg placeholder",
+    "tsipouro.jpg": "Copied from food.jpg placeholder",
+    "argonauts.jpg": "Copied from historic.jpg placeholder",
+    "pagasetic.jpg": "Copied from nature.jpg placeholder",
+    "iolcus.jpg": "Copied from vergina.jpg placeholder",
+    "volos-waterfront.jpg": "Copied from waterfront.jpg placeholder"
+  },
+  "productionReplace": [
+    "Volos Pagasetic Gulf waterfront promenade",
+    "Argonauts monument Volos",
+    "Mount Pelion traditional village (Makrinitsa or Portaria)",
+    "Meteora monasteries on rock pillars",
+    "Tsipouro meze table / Volos taverna",
+    "Volos cruise terminal approach"
+  ]
+}
